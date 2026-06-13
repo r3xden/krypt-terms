@@ -1,4 +1,4 @@
 A git for krypt's privacy and policy.
 
-+ Privacy:
++ Privacy: https://github.com/r3xden/krypt-terms/blob/main/PRIVACY.md
 + Policy: 
